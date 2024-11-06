@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://app.daily.dev/itsukiyamamoto0323/" target="_blank""><img src="https://readme-typing-svg.herokuapp.com/?lines=ItsukiYamamoto0323;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://app.daily.dev/itsukiyamamoto0323/" target="_blank""><img src="https://readme-typing-svg.herokuapp.com/?lines=Itsuki%20Yamamoto;Blockchain%20Developer;Web%20and%20Mobile%20master;8%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
 <div>
 <a href="https://app.daily.dev/itsukiyamamoto0323"><img src="https://api.daily.dev/devcards/v2/8UkiSAckfUMaG9zvLC3Ii.png?r=xq1&type=wide" width="652" alt="Itsuki Yamamoto's Dev Card"/></a>
-
+<br />
 Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
 
 I am very proficient with the solidity programming language, Ethereum, token generation, digital currency exchange, proof of work (POW), and building innovative, highly customized, robust, feature-packed, and modular blockchain development solutions.
