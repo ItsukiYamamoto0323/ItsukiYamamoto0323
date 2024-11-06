@@ -3,7 +3,7 @@
 </p>
 <br />
 <div>
-<a href="https://app.daily.dev/itsukiyamamoto0323"><img src="https://api.daily.dev/devcards/v2/8UkiSAckfUMaG9zvLC3Ii.png?r=xq1" width="356" alt="Itsuki Yamamoto's Dev Card"/></a>
+<a href="https://app.daily.dev/itsukiyamamoto0323"><img src="https://api.daily.dev/devcards/v2/8UkiSAckfUMaG9zvLC3Ii.png?r=xq1&type=wide" width="652" alt="Itsuki Yamamoto's Dev Card"/></a>
 
 Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
 
